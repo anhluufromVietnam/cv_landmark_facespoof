@@ -95,9 +95,3 @@ You can evaluate the model performance using the classification metrics (precisi
 - **Multi-class detection**: Implement uncertainty or "neutral" class for uncertain predictions.
 - **Additional Features**: Implement **texture analysis**, **motion analysis**, or use **depth sensors** for more robust liveness detection.
 ```
-
----
-
-This `README.md` is properly formatted for display on GitHub, with syntax highlighting for code blocks and clear sectioning for each part of the pipeline. You can copy this content directly into your `README.md` file.
-
-Let me know if you'd like any further adjustments!
