@@ -1,4 +1,4 @@
-# Liveness Detection Pipeline
+# CV Landmarks and Machine Learning for Anti Face-Spoofing
 
 This project uses OpenCV, MediaPipe, and SVM to build a real-time liveness detection system capable of distinguishing between **real (3D)** and **fake (2D)** faces. It captures facial data, trains a machine learning model, and uses the trained model for live face detection via a webcam.
 
@@ -13,7 +13,7 @@ pip install opencv-python mediapipe scikit-learn numpy joblib
 ## 🧑‍💻 **Folder Structure**
 
 ```
-liveness_project/
+cv_landmark_facespoof/
 ├── data/
 │   ├── real/               # Folder for real face images
 │   └── fake/               # Folder for fake face images
