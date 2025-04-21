@@ -94,4 +94,3 @@ You can evaluate the model performance using the classification metrics (precisi
 - **Advanced models**: Integrate deep learning models like CNNs for better feature extraction and more accurate results.
 - **Multi-class detection**: Implement uncertainty or "neutral" class for uncertain predictions.
 - **Additional Features**: Implement **texture analysis**, **motion analysis**, or use **depth sensors** for more robust liveness detection.
-```
