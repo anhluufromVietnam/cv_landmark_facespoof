@@ -1,4 +1,3 @@
-```markdown
 # Liveness Detection Pipeline
 
 This project uses OpenCV, MediaPipe, and SVM to build a real-time liveness detection system capable of distinguishing between **real (3D)** and **fake (2D)** faces. It captures facial data, trains a machine learning model, and uses the trained model for live face detection via a webcam.
